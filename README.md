@@ -35,4 +35,4 @@ Happy modeling!
 
 ---
 
-*This project was developed as part of the BBS2061 course at Maastricht University.*
+*This project was developed as part of the BBS2061 Systems biology course at Maastricht University.*
