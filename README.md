@@ -19,6 +19,4 @@ This repository contains a MATLAB script to simulate tumor growth dynamics affec
 
 All model parameters and dosing schedules can be edited inside the script under the `params` struct.
 
-If you have any questions, suggestions, or want to collaborate, feel free to open an issue or reach out!
-
 Happy modeling!
